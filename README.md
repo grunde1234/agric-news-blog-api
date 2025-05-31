@@ -15,7 +15,7 @@ All blog operations require users to be authenticated with a valid email and pas
 1. Make sure Node.js is installed on your machine.
 2. Clone the repository:
 ```
-git clone https://github.com/your-username/agric-news-blog-api.git
+git clone https://github.com/grunde1234/agric-news-blog-api.git
 ```
 3. Install dependencies:
 ```
