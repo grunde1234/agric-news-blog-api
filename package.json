@@ -1,0 +1,19 @@
+{
+  "name": "agric_project",
+  "version": "1.0.0",
+  "main": "server.js",
+  "type": "module",
+  "scripts": {
+    "dev": "node --watch --env-file=.env ./backend/server.js"
+  },
+  "keywords": [],
+  "author": "Okafor Ebuka",
+  "license": "MIT",
+  "description": "",
+  "dependencies": {
+    "colors": "^1.4.0",
+    "express": "^5.1.0",
+    "express-async-handler": "^1.2.0",
+    "mongoose": "^8.15.1"
+  }
+}
